@@ -3,7 +3,7 @@
 
 [![Cenário](https://img.shields.io/badge/Cenário-Hormuz%20fechado%20indefinidamente-bd2d2d)](https://quantimportbrazil.github.io/cenario/)
 [![Status](https://img.shields.io/badge/Status-Ativo-2ea44f)]
-[![Atualização](https://img.shields.io/badge/Atualizado-2026-03-24 18:24:08-0366d6)]
+[![Atualização](https://img.shields.io/badge/Atualizado-25/03/2026 06:54:47-0366d6)]
 
 **[🏠 Home](https://quantimportbrazil.github.io/sobre/)**  
 **[🧪 Demo](https://quantimportbrazil.github.io/demo/)**  
@@ -30,7 +30,7 @@ Aplicadas a séries históricas com até **15 anos de dados**.
 
 ## 📈 Análise Anual  
 
-![](images/overview.png?cache=2026-03-24 18:24:08)  
+![](images/overview.png?cache=25/03/2026 06:54:47)  
 
 **Leitura do gráfico:**  
 - O tamanho do **"X" verde** indica a probabilidade de ocorrência  
@@ -44,40 +44,40 @@ Aplicadas a séries históricas com até **15 anos de dados**.
 <summary><b>Ver gráficos mês a mês</b></summary>
 
 ### Janeiro
-![](images/Janeiro.png?cache=2026-03-24 18:24:08)
+![](images/Janeiro.png?cache=25/03/2026 06:54:47)
 
 ### Fevereiro
-![](images/Fevereiro.png?cache=2026-03-24 18:24:08)
+![](images/Fevereiro.png?cache=25/03/2026 06:54:47)
 
 ### Março
-![](images/Marco.png?cache=2026-03-24 18:24:08)
+![](images/Marco.png?cache=25/03/2026 06:54:47)
 
 ### Abril
-![](images/Abril.png?cache=2026-03-24 18:24:08)
+![](images/Abril.png?cache=25/03/2026 06:54:47)
 
 ### Maio
-![](images/Maio.png?cache=2026-03-24 18:24:08)
+![](images/Maio.png?cache=25/03/2026 06:54:47)
 
 ### Junho
-![](images/Junho.png?cache=2026-03-24 18:24:08)
+![](images/Junho.png?cache=25/03/2026 06:54:47)
 
 ### Julho
-![](images/Julho.png?cache=2026-03-24 18:24:08)
+![](images/Julho.png?cache=25/03/2026 06:54:47)
 
 ### Agosto
-![](images/Agosto.png?cache=2026-03-24 18:24:08)
+![](images/Agosto.png?cache=25/03/2026 06:54:47)
 
 ### Setembro
-![](images/Setembro.png?cache=2026-03-24 18:24:08)
+![](images/Setembro.png?cache=25/03/2026 06:54:47)
 
 ### Outubro
-![](images/Outubro.png?cache=2026-03-24 18:24:08)
+![](images/Outubro.png?cache=25/03/2026 06:54:47)
 
 ### Novembro
-![](images/Novembro.png?cache=2026-03-24 18:24:08)
+![](images/Novembro.png?cache=25/03/2026 06:54:47)
 
 ### Dezembro
-![](images/Dezembro.png?cache=2026-03-24 18:24:08)
+![](images/Dezembro.png?cache=25/03/2026 06:54:47)
 
 </details>
 
@@ -103,4 +103,4 @@ Aplicadas a séries históricas com até **15 anos de dados**.
 
 ## 🕒 Emissão  
 
-**2026-03-24 18:24:08**
+**25/03/2026 06:51:34**

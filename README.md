@@ -1,134 +1,49 @@
 
 # <img src="logo.png" alt="Logo QuantImport" width="70"> QuantImport  
+[![Texto](https://img.shields.io/badge/Cenário-Hormuz%20fechado%20indefinidamente-bd2d2d)](https://quantimportbrazil.github.io/cenario/)  
 
-[![Cenário](https://img.shields.io/badge/Cenário-Hormuz%20fechado%20indefinidamente-bd2d2d)](https://quantimportbrazil.github.io/cenario/)
-[![Status](https://img.shields.io/badge/Status-Ativo-2ea44f)]
-[![Atualização](https://img.shields.io/badge/Atualizado-25/03/2026 06:51:34-0366d6)]
+**[Home](https://quantimportbrazil.github.io/sobre/)**  
+**[Demo](https://quantimportbrazil.github.io/demo/)**  
 
-**[🏠 Home](https://quantimportbrazil.github.io/sobre/)**  
-**[🧪 Demo](https://quantimportbrazil.github.io/demo/)**  
+---  
 
----
+## Gráficos comparativos entre previsões: 'Machine Learning' (ML) X Regressão Linear (LR) 
 
-## 📊 Visão Geral  
+Emissão: 25/03/2026 06:51:34  
 
-Este painel apresenta a comparação entre previsões geradas por:  
-- **Machine Learning (ML)**  
-- **Regressão Linear (LR)**  
+---  
 
-Aplicadas a séries históricas com até **15 anos de dados**.
+## Índice da Página  
 
----
-
-## ⚙️ Premissas do Cenário  
-
-- 🚢 **Fluxo no Estreito de Hormuz:** considerado **zero indefinidamente**  
-- 📈 **Dados de entrada:** preços spot e variáveis macro no momento da emissão  
-- 🔁 **Atualização:** dinâmica — previsões podem variar dentro do mesmo mês  
+1. [Análise ao longo do ano](#análise-ao-longo-do-ano)  
+2. [Análise mês a mês](#análise-mês-a-mês)  
 
 ---
 
-## 📈 Análise Anual  
+### Análise ao longo do ano  
+![](images/overview.png)  
 
-![](images/overview.png?cache=20260325072615)
-
-
-
-**Leitura do gráfico:**  
-- O tamanho do **"X" verde** indica a probabilidade de ocorrência  
-- Comparação direta entre modelos ML e LR ao longo do tempo  
+* O tamanho da marca "X verde" é proporcional à probabilidade de a instância ocorrer.  
+* Os testes foram realizados sobre o histórico disponível, podendo alcançar até 15 anos de dados, conforme a série considerada.  
 
 ---
 
-## 📅 Análise Mensal  
-
-<details>
-<summary><b>Ver gráficos mês a mês</b></summary>
-
-<br>
-
-#### Janeiro  
-![](images/Janeiro.png?cache=20260325072615)
+### Análise mês a mês
 
 
+![](images/Janeiro.png)
+![](images/Fevereiro.png)
+![](images/Março.png)
+![](images/Abril.png)
+![](images/Maio.png)
+![](images/Junho.png)
+![](images/Julho.png)
+![](images/Agosto.png)
+![](images/Setembro.png)
+![](images/Outubro.png)
+![](images/Novembro.png)
+![](images/Dezembro.png)
 
-#### Fevereiro  
-![](images/Fevereiro.png?cache=20260325072615)
+---  
 
-
-
-#### Março  
-![](images/Marco.png?cache=20260325072615)
-
-
-
-#### Abril  
-![](images/Abril.png?cache=20260325072615)
-
-
-
-#### Maio  
-![](images/Maio.png?cache=20260325072615)
-
-
-
-#### Junho  
-![](images/Junho.png?cache=20260325072615)
-
-
-
-#### Julho  
-![](images/Julho.png?cache=20260325072615)
-
-
-
-#### Agosto  
-![](images/Agosto.png?cache=20260325072615)
-
-
-
-#### Setembro  
-![](images/Setembro.png?cache=20260325072615)
-
-
-
-#### Outubro  
-![](images/Outubro.png?cache=20260325072615)
-
-
-
-#### Novembro  
-![](images/Novembro.png?cache=20260325072615)
-
-
-
-#### Dezembro  
-![](images/Dezembro.png?cache=20260325072615)
-
-
-
-</details>
-
----
-
-## 🧠 Metodologia  
-
-- Modelos avaliados:
-  - Machine Learning (ML)
-  - Regressão Linear (LR)  
-- Backtests realizados sobre histórico disponível  
-- Comparação baseada em probabilidade e dispersão dos cenários  
-
----
-
-## ⚠️ Observações  
-
-- Resultados dependem das premissas do cenário  
-- Alterações macro podem impactar significativamente as previsões  
-- Este material não constitui recomendação  
-
----
-
-## 🕒 Emissão  
-
-**25/03/2026 06:51:34**
+*Modelos utilizados: Machine Learning e Regressão Linear.*

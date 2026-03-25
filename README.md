@@ -3,7 +3,7 @@
 
 [![Cenário](https://img.shields.io/badge/Cenário-Hormuz%20fechado%20indefinidamente-bd2d2d)](https://quantimportbrazil.github.io/cenario/)
 [![Status](https://img.shields.io/badge/Status-Ativo-2ea44f)]
-[![Atualização](https://img.shields.io/badge/Atualizado-20260325070702-0366d6)]
+[![Atualização](https://img.shields.io/badge/Atualizado-25/03/2026 06:51:34-0366d6)]
 
 **[🏠 Home](https://quantimportbrazil.github.io/sobre/)**  
 **[🧪 Demo](https://quantimportbrazil.github.io/demo/)**  
@@ -30,7 +30,7 @@ Aplicadas a séries históricas com até **15 anos de dados**.
 
 ## 📈 Análise Anual  
 
-![](images/overview.png?cache=20260325070702)    
+![](images/overview.png?cache=20260325071034)    
 
 **Leitura do gráfico:**  
 - O tamanho do **"X" verde** indica a probabilidade de ocorrência  
@@ -44,40 +44,40 @@ Aplicadas a séries históricas com até **15 anos de dados**.
 <summary><b>Ver gráficos mês a mês</b></summary>
 
 ### Janeiro
-![](images/Janeiro.png?cache=20260325070702)  
+![](images/Janeiro.png?cache=20260325071034)  
 
 ### Fevereiro
-![](images/Fevereiro.png?cache=20260325070702)  
+![](images/Fevereiro.png?cache=20260325071034)  
 
 ### Março
-![](images/Marco.png?cache=20260325070702)  
+![](images/Marco.png?cache=20260325071034)  
 
 ### Abril
-![](images/Abril.png?cache=20260325070702)  
+![](images/Abril.png?cache=20260325071034)  
 
 ### Maio
-![](images/Maio.png?cache=20260325070702)  
+![](images/Maio.png?cache=20260325071034)  
 
 ### Junho
-![](images/Junho.png?cache=20260325070702)  
+![](images/Junho.png?cache=20260325071034)  
 
 ### Julho
-![](images/Julho.png?cache=20260325070702)  
+![](images/Julho.png?cache=20260325071034)  
 
 ### Agosto
-![](images/Agosto.png?cache=20260325070702)  
+![](images/Agosto.png?cache=20260325071034)  
 
 ### Setembro
-![](images/Setembro.png?cache=20260325070702)  
+![](images/Setembro.png?cache=20260325071034)  
 
 ### Outubro
-![](images/Outubro.png?cache=20260325070702)  
+![](images/Outubro.png?cache=20260325071034)  
 
 ### Novembro
-![](images/Novembro.png?cache=20260325070702)  
+![](images/Novembro.png?cache=20260325071034)  
 
 ### Dezembro
-![](images/Dezembro.png?cache=20260325070702)  
+![](images/Dezembro.png?cache=20260325071034)  
 
 </details>
 

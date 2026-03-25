@@ -7,13 +7,15 @@
 
 ---  
 
-## Gráficos comparativos entre previsões: 'Machine Learning' (ML) X Regressão Linear (LR) 
+### Gráficos comparativos entre previsões:  
+* Machine Learning (ML)
+* Regressão Linear (LR) 
 
 Emissão: 25/03/2026 06:51:34  
 
 ---  
 
-## Índice da Página  
+### Índice da Página  
 
 1. [Análise ao longo do ano](#análise-ao-longo-do-ano)  
 2. [Análise mês a mês](#análise-mês-a-mês)  

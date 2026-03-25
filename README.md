@@ -11,7 +11,7 @@
 * Machine Learning (ML)
 * Regressão Linear (LR) 
 
-Emissão: 25/03/2026 06:51:34  
+Emissão: 25/03/2026 07:42  
 
 ---  
 
@@ -46,6 +46,3 @@ Emissão: 25/03/2026 06:51:34
 ![](images/Novembro.png)
 ![](images/Dezembro.png)
 
----  
-
-*Modelos utilizados: Machine Learning e Regressão Linear.*
